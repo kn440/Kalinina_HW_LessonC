@@ -26,7 +26,6 @@ namespace _1._5_Task
 
             PrintCentre(d, l);
             Console.ReadKey();
-
         }
     }
 }
